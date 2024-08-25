@@ -201,6 +201,7 @@ footer{
 }
 .About-Me,
 .projects,
+.skills,
 .experinces,
 .contact {
     background-color: #fffeff;
@@ -211,7 +212,7 @@ footer{
 
     @media (max-width:430) {
         body{
-            height: 2200px;
+            height: 2100px;
         }
         
     }
