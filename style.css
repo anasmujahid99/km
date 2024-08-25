@@ -210,21 +210,15 @@ footer{
     margin-left: 200px;
     box-shadow:  4px 8px rgba(0, 0, 0, 0.1);}
 
-    @media (max-width:430) {
-        body{
-            height: 1500px;
-        }
-        
-    }
 /* navbar */
-@media (max-width: 430px) {
+@media (min-width:300px) and (max-width: 430px) {
     .nav-bar {
         width: 550px;
        font-size: 12px;
     }
 }
 /* hr */
-@media (max-width:430px){
+@media (min-width:300px) and (max-width:430px){
     .hr{
         width: 360px;
     }
@@ -233,7 +227,7 @@ footer{
 /* sections */
 
 /* .About-Me */
-@media (max-width:430px) {
+@media (min-width:300px) and (max-width:430px) {
     .About-Me{ width: 400px;
         height: 370px;
         margin-left: 75px;
@@ -242,7 +236,7 @@ footer{
     }
 }
  /* projects  */
-@media (max-width:430px){
+@media (min-width:300px) and (max-width:430px){
     .projects{
         width: 400px;
         height: 300px;
@@ -251,14 +245,14 @@ footer{
     }
 }
 
-@media (max-width:430px){
+@media (min-width:300px) and (max-width:430px){
     .table{
         width:360px ;
     }
 }
 /* .skills */
 
-@media (max-width:430px){
+@media (min-width:300px) and (max-width:430px){
     .skills {
         width: 400px;
         height: 230px;
@@ -269,7 +263,7 @@ footer{
 
 /* .experinces */
 
-@media (max-width:430px){
+@media (min-width:300px) and (max-width:430px){
     .experinces{
         width: 400px;
         height: 330px;
@@ -279,7 +273,7 @@ footer{
 }
 
 /* .contact */
-@media (max-width:430px){
+@media (min-width:300px) and  (max-width:430px){
     .contact{
         width: 400px;
         height: 430px;
@@ -288,13 +282,13 @@ footer{
     }
 }
 
-@media (max-width:430px){
+@media (min-width:300px) and (max-width:430px){
     input, textarea{
         width: 355px;
     }
 }
 
-@media (max-width:430px){
+@media (min-width:300px) and  (max-width:430px){
     button{
         width: 360px;
         
@@ -303,11 +297,108 @@ footer{
 
 /* footer */
 
-@media (max-width: 430px) {
+@media(min-width:300px) and (max-width: 430px) {
     footer{
         width: 550px;
        font-size: 12px;
     }
 }
 
+
+
+
+
+/* navbar */
+@media (min-width:700px) and (max-width: 900px) {
+    .nav-bar {
+        width: 800px;
+       font-size: 15px;
+    }
+}
+/* hr */
+@media (min-width:700px) and (max-width:900px){
+    .hr{
+        width: 610px;
+    }
+}
+
+/* sections */
+
+/* .About-Me */
+@media (min-width:700px) and (max-width:900px) {
+    .About-Me{ width: 650px;
+        height: 380px;
+        margin-left: 75px;
+        font-size: 13px;
+
+    }
+}
+ /* projects  */
+@media (min-width:700px) and (max-width:900px){
+    .projects{
+        width: 650px;
+        height: 300px;
+        margin-left: 75px;
+        font-size: 13px;
+    }
+}
+
+@media (min-width:700px) and (max-width:900px){
+    .table{
+        width:610px ;
+    }
+}
+/* .skills */
+
+@media (min-width:700px) and (max-width:900px){
+    .skills {
+        width: 650px;
+        height: 250px;
+        margin-left: 75px;
+        font-size: 13px;
+    }
+}
+
+/* .experinces */
+
+@media (min-width:700px) and (max-width:900px){
+    .experinces{
+        width: 650px;
+        height: 350px;
+        margin-left: 75px;
+        font-size: 13px;
+    }
+}
+
+/* .contact */
+@media (min-width:700px) and  (max-width:900px){
+    .contact{
+        width: 650px;
+        height: 470px;
+        margin-left: 75px;
+        font-size: 13px;
+    }
+}
+
+@media (min-width:700px) and (max-width:900px){
+    input, textarea{
+        width: 605px;
+    }
+}
+
+@media (min-width:700px) and  (max-width:900px){
+    button{
+        width: 610px;
+        
+    }
+}
+
+/* footer */
+
+@media(min-width:700px) and (max-width: 900px) {
+    footer{
+        width: 800px;
+       font-size: 15px;
+    }
+}
 
