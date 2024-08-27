@@ -209,102 +209,99 @@ footer{
     margin-top: 30px;
     margin-left: 200px;
     box-shadow:  4px 8px rgba(0, 0, 0, 0.1);}
-
 /* navbar */
-@media (min-width:300px) and (max-width: 430px) {
+@media (min-width:300px) and (max-width: 500px) {
     .nav-bar {
         width: 550px;
        font-size: 12px;
     }
 }
 /* hr */
-@media (min-width:300px) and (max-width:430px){
+@media (min-width:300px) and (max-width:500px){
     .hr{
-        width: 360px;
+        width: 480px;
     }
 }
 
 /* sections */
 
 /* .About-Me */
-@media (min-width:300px) and (max-width:430px) {
-    .About-Me{ width: 400px;
+@media (min-width:300px) and (max-width:500px) {
+    .About-Me{ width: 520px;
         height: 370px;
-        margin-left: 75px;
+        margin-left: 15px;
         font-size: 10px;
 
     }
 }
  /* projects  */
-@media (min-width:300px) and (max-width:430px){
+@media (min-width:300px) and (max-width:500px){
     .projects{
-        width: 400px;
+        width: 520px;
         height: 300px;
-        margin-left: 75px;
+        margin-left: 15px;
         font-size: 10px;
     }
 }
 
-@media (min-width:300px) and (max-width:430px){
+@media (min-width:300px) and (max-width:500px){
     .table{
-        width:360px ;
+        width:480px ;
     }
 }
 /* .skills */
 
-@media (min-width:300px) and (max-width:430px){
+@media (min-width:300px) and (max-width:500px){
     .skills {
-        width: 400px;
+        width: 520px;
         height: 230px;
-        margin-left: 75px;
+        margin-left: 15px;
         font-size: 10px;
     }
 }
 
 /* .experinces */
 
-@media (min-width:300px) and (max-width:430px){
+@media (min-width:300px) and (max-width:500px){
     .experinces{
-        width: 400px;
+        width: 520px;
         height: 330px;
-        margin-left: 75px;
+        margin-left: 15px;
         font-size: 10px;
     }
 }
 
 /* .contact */
-@media (min-width:300px) and  (max-width:430px){
+@media (min-width:300px) and  (max-width:500px){
     .contact{
-        width: 400px;
+        width: 520px;
         height: 430px;
-        margin-left: 75px;
+        margin-left: 15px;
         font-size: 10px;
     }
 }
 
-@media (min-width:300px) and (max-width:430px){
+@media (min-width:300px) and (max-width:500px){
     input, textarea{
-        width: 355px;
+        width: 475px;
     }
 }
 
-@media (min-width:300px) and  (max-width:430px){
+@media (min-width:300px) and  (max-width:500px){
     button{
-        width: 360px;
+        width: 480px;
         
     }
 }
 
 /* footer */
 
-@media(min-width:300px) and (max-width: 430px) {
+@media(min-width:300px) and (max-width: 500px) {
     footer{
         width: 550px;
        font-size: 12px;
     }
 }
-
-
 
 
 
